@@ -138,7 +138,7 @@ public class MakingTheModelThinkTests extends BaseTestClass {
        Assume the laws of physics on Earth. A small marble is put into a normal cup and the cup is placed upside down on a table,
         causing the open side of the cup to be in contact with the table. Gravity will cause the ball to fall to the table.
        Someone then picks the cup up without changing its orientation and puts it inside the microwave. Where is the ball now. Determine the position of the ball in each step. Explain 
-       why the ball is postioned where it is.
+       why the ball is positioned where it is.
        """;
 
     @Test
